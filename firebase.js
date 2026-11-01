@@ -2,13 +2,13 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDSuZcvXdNHPdZrbH1kmZN4AShZrDOVC4I",
-  authDomain: "sorteio-de-times-e5e7e.firebaseapp.com",
-  projectId: "sorteio-de-times-e5e7e",
-  storageBucket: "sorteio-de-times-e5e7e.firebasestorage.app",
-  messagingSenderId: "339004964423",
-  appId: "1:339004964423:web:5906d069920831d3153b62",
-  measurementId: "G-9WEGQ1EXK6"
+  apiKey: "INSIRA SUAS CREDENCIAIS",
+  authDomain: "INSIRA SUAS CREDENCIAIS",
+  projectId: "INSIRA SUAS CREDENCIAIS",
+  storageBucket: "INSIRA SUAS CREDENCIAIS",
+  messagingSenderId: "INSIRA SUAS CREDENCIAIS",
+  appId: "INSIRA SUAS CREDENCIAIS",
+  measurementId: "INSIRA SUAS CREDENCIAIS"
 };
 
 // Inicializa o aplicativo do Firebase
